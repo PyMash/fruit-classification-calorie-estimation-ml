@@ -9,6 +9,8 @@ This project classifies different types of fruits and estimates their calorie co
 - `model.h5`: Trained CNN model saved for efficient inference.
 - `test_images/`: Folder containing test images to validate and demo the model's functionality.
 
+> **Note**: The trained `.h5` model file and test data are available on Google Drive. [Download them here]([https://drive.google.com/your-model-and-test-data-link](https://drive.google.com/drive/folders/1t4ySAejgjbhTtV8Wx7MjDsHNNtP5Rcwa?usp=sharing).
+
 ## Features
 
 - **Fruit Classification**: Identifies various fruit types from input images.
@@ -28,7 +30,9 @@ This project classifies different types of fruits and estimates their calorie co
     pip install -r requirements.txt
     ```
 
-3. Run `checker.py` to start the interface:
+3. Download the model and test data from Google Drive and place `model.h5` and test images in the appropriate directories.
+
+4. Run `checker.py` to start the interface:
     ```bash
     python checker.py
     ```
@@ -58,4 +62,5 @@ The CNN model has been trained to classify various fruits with an accuracy of ar
 ## Contributing
 
 Feel free to contribute by creating issues, suggesting features, or making pull requests.
+
 
