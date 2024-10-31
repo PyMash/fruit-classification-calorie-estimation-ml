@@ -9,7 +9,7 @@ This project classifies different types of fruits and estimates their calorie co
 - `model.h5`: Trained CNN model saved for efficient inference.
 - `test_images/`: Folder containing test images to validate and demo the model's functionality.
 
-> **Note**: The trained `.h5` model file and test data are available on Google Drive. [Download them here]([https://drive.google.com/your-model-and-test-data-link](https://drive.google.com/drive/folders/1t4ySAejgjbhTtV8Wx7MjDsHNNtP5Rcwa?usp=sharing).
+> **Note**: The trained `.h5` model file and test data are available on Google Drive. [Download them here]([https://drive.google.com/your-model-and-test-data-link](https://drive.google.com/drive/folders/1t4ySAejgjbhTtV8Wx7MjDsHNNtP5Rcwa?usp=sharing)).
 
 ## Features
 
@@ -48,7 +48,7 @@ This project classifies different types of fruits and estimates their calorie co
 
 ## Dataset
 
-The dataset used for training was obtained from Kaggle. It contains labeled images of various fruits along with calorie values. You can access the dataset [here]([https://www.kaggle.com/dataset-link](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images).
+The dataset used for training was obtained from Kaggle. It contains labeled images of various fruits along with calorie values. You can access the dataset [here]([https://www.kaggle.com/dataset-link](https://www.kaggle.com/datasets/shreyapmaher/fruits-dataset-images)).
 
 ## Results
 
