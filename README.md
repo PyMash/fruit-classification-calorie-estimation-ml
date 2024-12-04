@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="FNheOI2EyuYQzzm0iDghl4D7jpS7ECgXkmZFTcG2gmA" />
 # Fruit Classification and Calorie Estimation using Machine Learning
 
 This project classifies different types of fruits and estimates their calorie content using a Convolutional Neural Network (CNN) model. Built using Python and machine learning libraries, this tool can identify fruits from images and provide a calorie estimation, helping users make informed dietary choices.
